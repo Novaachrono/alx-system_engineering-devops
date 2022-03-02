@@ -1,2 +1,3 @@
+
 #!/bin/bash
-You can read
+it is a readme file
